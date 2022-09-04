@@ -12,8 +12,8 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 
 - [Link para o código_1 https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/blob/1)-An%C3%A1lise-Explort%C3%B3ria-e-S%C3%A9rie-Temporal/1)_Exploratory_analysis_and_graphs_development.ipynb]
-- 
-- [Link para o código_2 (2)-Presets-como-atributos-XGBoost-para-categorização)](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/2)-Presets-como-atributos-XGBoost-para-categoriza%C3%A7%C3%A3o)]
+
+- [Link para o código_2 https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/2)-Presets-como-atributos-XGBoost-para-categoriza%C3%A7%C3%A3o]
 
 - [Link para o código_3](3)-Variáveis-físicas-operacionais-XGBoost-para-categorização)
 
