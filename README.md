@@ -17,7 +17,7 @@ o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 
 - [Link para o código_3](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/3-Vari%C3%A1veis-f%C3%ADsicas-operacionais-XGBoost-para-categoriza%C3%A7%C3%A3o)
 
-- [Link para o código_4](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/4-%C3%A1rvore-de-decis%C3%A3o-para-classifica%C3%A7%C3%A3o-no-conjunto-completo)
+- [Link para o código_4]((https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/4-%C3%A1rvore-de-decis%C3%A3o-para-classifica%C3%A7%C3%A3o-no-conjunto-completo)
 
 - [Link para a monografia](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/blob/main/Relat%C3%B3rio.pdf).
 
