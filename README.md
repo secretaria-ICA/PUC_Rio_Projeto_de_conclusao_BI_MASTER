@@ -80,7 +80,6 @@ classificar falhas através do modelo criado com uma acurácia superior a 94%.
 Um outro recurso de extrema importância complementando o desenvolvimento do trabalho, é a possibilidade de extrair os atributos dos grupos de falhas, em conjuntos 
 distinto de dados e utilizar fórmulas estatísticas ou outra tecnologia para que as falhas mais graves possam ser evitadas.
 
-
 ---
 
 Matrícula: 202.190.134
