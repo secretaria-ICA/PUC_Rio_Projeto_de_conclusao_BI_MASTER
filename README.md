@@ -11,16 +11,13 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 <!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir 
 o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 
--[Análise Exploratória e Desenvolvimento de Gráficos](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclusao_BI_MASTER/blob/main/An%C3%A1lise_Explorat%C3%B3ria_e_Desenvolvimento_de_Gr%C3%A1ficos.ipynb) 
+- [Análise Exploratória e Desenvolvimento de Gráficos](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclusao_BI_MASTER/blob/main/An%C3%A1lise_Explorat%C3%B3ria_e_Desenvolvimento_de_Gr%C3%A1ficos.ipynb) 
 
-- [Link para o código_2 https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/2)-Presets-como-atributos-XGBoost-para-categoriza%C3%A7%C3%A3o]
+- [XGBOOST para Categorização](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclusao_BI_MASTER/blob/main/XGBoost_para_Categoriza%C3%A7%C3%A3o.ipynb)
+- [Produção GBT](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclusao_BI_MASTER/blob/main/Produ%C3%A7%C3%A3o_Variaveis_GBT.ipynb)
 
-- [Link para o código_3 https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/3)-Vari%C3%A1veis-f%C3%ADsicas-operacionais-XGBoost-para-categoriza%C3%A7%C3%A3o]
-
-- [Link para o código_4 https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/4)-%C3%A1rvore-de-decis%C3%A3o-para-classifica%C3%A7%C3%A3o-no-conjunto-completo].
-
-- [Link para a monografia](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/blob/main/Relat%C3%B3rio.pdf).
-
+- [Árvore de Decisão](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclusao_BI_MASTER/blob/main/%C3%81rvore_de_Decis%C3%A3o_para_Classifica%C3%A7%C3%A3o.ipynb)
+- [Produção DT](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclusao_BI_MASTER/blob/main/Produ%C3%A7%C3%A3o_DT.ipynb)
 
 ---
 
