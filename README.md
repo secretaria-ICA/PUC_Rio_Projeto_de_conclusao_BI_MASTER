@@ -51,7 +51,7 @@ MLOps (uma combinação de Machine Learning e “operações de tecnologia da in
 Já é sabido que a indústria como um todo está passando por diferentes transformações, advindas dos impactos da COVID-19 e foi nesse momento que a tecnologia mostrou sua real importância nesse momento em que já é entendido que o ML e IA nos auxiliou à realização de inúmeras tarefas cotidianas. 
 O setor de pesquisa e desenvolvimento busca constantemente encontrar soluções que possam ser a aplicação direta do ML no tanto Downstream como no Upstream dessa indústria. 
 
-De acordo com o relatório desenvolvido por Mordor Intelligence [https://www.mordorintelligence.com/industry-reports/ai-market-in-oil-and-gas] , como os custos relacionados a aquisição de sensores IoT declinou, diversas outras empresas que ainda não conseguiam adquirir estes, que são peça fundamental na comunicação e distribuição de dados entre equipamentos e interfaces de execução de IA. E então existe uma expectativa bem positiva para o setor de um aumento de cerca de 10,81% nos lucros produzidos por essa indústria entre 2021-2027, graças aos advindos proporcionados pela ML e IA.
+De acordo com o relatório desenvolvido por [Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/ai-market-in-oil-and-gas) , como os custos relacionados a aquisição de sensores IoT declinou, diversas outras empresas que ainda não conseguiam adquirir estes, que são peça fundamental na comunicação e distribuição de dados entre equipamentos e interfaces de execução de IA. E então existe uma expectativa bem positiva para o setor de um aumento de cerca de 10,81% nos lucros produzidos por essa indústria entre 2021-2027, graças aos advindos proporcionados pela ML e IA.
 
 #### Machine Learning no setor de O&G
 
