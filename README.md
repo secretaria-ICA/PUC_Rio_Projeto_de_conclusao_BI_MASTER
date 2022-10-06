@@ -51,7 +51,7 @@ MLOps (uma combinação de Machine Learning e “operações de tecnologia da in
 Já é sabido que a indústria como um todo está passando por diferentes transformações, advindas dos impactos da COVID-19 e foi nesse momento que a tecnologia mostrou sua real importância nesse momento em que já é entendido que o ML e IA nos auxiliou à realização de inúmeras tarefas cotidianas. 
 O setor de pesquisa e desenvolvimento busca constantemente encontrar soluções que possam ser a aplicação direta do ML no tanto Downstream como no Upstream dessa indústria. 
 
-De acordo com o relatório desenvolvido por Mordor Intelligence, como os custos relacionados a aquisição de sensores IoT declinou, diversas outras empresas que ainda não conseguiam adquirir estes, que são peça fundamental na comunicação e distribuição de dados entre equipamentos e interfaces de execução de IA. E então existe uma expectativa bem positiva para o setor de um aumento de cerca de 10,81% nos lucros produzidos por essa indústria entre 2021-2027, graças aos advindos proporcionados pela ML e IA.
+De acordo com o relatório desenvolvido por Mordor Intelligence [https://www.mordorintelligence.com/industry-reports/ai-market-in-oil-and-gas] , como os custos relacionados a aquisição de sensores IoT declinou, diversas outras empresas que ainda não conseguiam adquirir estes, que são peça fundamental na comunicação e distribuição de dados entre equipamentos e interfaces de execução de IA. E então existe uma expectativa bem positiva para o setor de um aumento de cerca de 10,81% nos lucros produzidos por essa indústria entre 2021-2027, graças aos advindos proporcionados pela ML e IA.
 
 #### Machine Learning no setor de O&G
 
@@ -127,7 +127,10 @@ Representação da Árvore de Decisão: As árvores de decisão classificam as i
 
 #### Análise Exploratória da Base de Dados
 
-Antes de definir quais modelos de Machine Learning seriam os ideais para realizar o estudo, realizei os procedimentos básicos exploratório para entender a base como um todo, onde primeiramente fiz a contagem de quantas vezes dentro da base de dados houve a ocorrência de falhas 
+Antes de definir quais modelos de Machine Learning seriam os ideais para realizar o estudo, realizei os procedimentos básicos exploratório para entender a base como um todo, onde primeiramente fiz a contagem de quantas vezes dentro da base de dados houve a ocorrência de falhas.
+
+![image](https://user-images.githubusercontent.com/73768941/194211173-d48f50d6-f853-47d4-b091-88968abadd02.png)
+
 Outra análise exploratória e de extrema importância é entender a correlação existente entre cada um dos atributos da base, como forma até mesmo decidir a relevância de se manter determinado atributo, da mesma forma quando verificamos se algum atributo possui dados faltantes em uma quantidade grande o que faz com que sua permanência no conjunto seja desnecessária. 
 
 ![image](https://user-images.githubusercontent.com/73768941/194211036-c9a80421-b442-4e59-a683-a05d54cab413.png)
