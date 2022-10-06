@@ -226,15 +226,24 @@ Um outro recurso de extrema importância complementando o desenvolvimento do tra
 
 ### REFERENCIAL TEÓRICO
 
-[Ernest Ng, XGBoost for Multi-class Classification. Toward Data Science, 2020.](https://towardsdatascience.com/xgboost-for-multi-class-classification-799d96bcd368) 
-[Destin Gong, Top 6 Machine Learning Algorithms for Classification. Toward Data Science, 2022.](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501) 
-[North Sea Transition Authority, UKCS Production.](https://www.nstauthority.co.uk/data-centre/nsta-open-data/production/) 
-[PGS, Santos Vision 3D.](https://www.pgs.com/data-library/north-and-south-america/south-atlantic-margin/campos--santos/santos-vision/) 
-[Mordor Inteligence, GLOBAL AI IN OIL AND GAS MARKET - GROWTH, TRENDS, COVID-19 IMPACT, AND FORECAST (2022 - 2027).](https://www.mordorintelligence.com/industry-reports/ai-market-in-oil-and-gas) 
-[OnePetro, Application of Real-time Video Streaming and Analytics to Breakdown Rig Connection Process.](https://onepetro.org/OTCONF/proceedings-abstract/18OTC/3-18OTC/D031S031R002/179764) 
-[Springer, Machine learning algorithm for prediction of stuck pipe incidents using statistical data: case study in middle east oil Fields.](https://link.springer.com/article/10.1007/s13202-021-01436-3#Tab17) 
-[Cory Maklin, Gradient Boosting Decision Tree Algorithm Explained. Toward Data Science, 2019.](https://towardsdatascience.com/machine-learning-part-18-boosting-algorithms-gradient-boosting-in-python-ef5ae6965be4) 
-[Nima Beheshti, Guide to Confusion Matrices & Classification Performance Metrics. Toward Data Science, 2019.](https://towardsdatascience.com/guide-to-confusion-matrices-classification-performance-metrics-a0ebfc08408e)) 
+[Ernest Ng, XGBoost for Multi-class Classification. Toward Data Science, 2020.](https://towardsdatascience.com/xgboost-for-multi-class-classification-799d96bcd368)
+
+[Destin Gong, Top 6 Machine Learning Algorithms for Classification. Toward Data Science, 2022.](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
+
+[North Sea Transition Authority, UKCS Production.](https://www.nstauthority.co.uk/data-centre/nsta-open-data/production/)
+
+[PGS, Santos Vision 3D.](https://www.pgs.com/data-library/north-and-south-america/south-atlantic-margin/campos--santos/santos-vision/)
+
+[Mordor Inteligence, GLOBAL AI IN OIL AND GAS MARKET - GROWTH, TRENDS, COVID-19 IMPACT, AND FORECAST (2022 - 2027).](https://www.mordorintelligence.com/industry-reports/ai-market-in-oil-and-gas)
+
+[OnePetro, Application of Real-time Video Streaming and Analytics to Breakdown Rig Connection Process.](https://onepetro.org/OTCONF/proceedings-abstract/18OTC/3-18OTC/D031S031R002/179764)
+
+[Springer, Machine learning algorithm for prediction of stuck pipe incidents using statistical data: case study in middle east oil Fields.](https://link.springer.com/article/10.1007/s13202-021-01436-3#Tab17)
+
+[Cory Maklin, Gradient Boosting Decision Tree Algorithm Explained. Toward Data Science, 2019.](https://towardsdatascience.com/machine-learning-part-18-boosting-algorithms-gradient-boosting-in-python-ef5ae6965be4)
+
+[Nima Beheshti, Guide to Confusion Matrices & Classification Performance Metrics. Toward Data Science, 2019.](https://towardsdatascience.com/guide-to-confusion-matrices-classification-performance-metrics-a0ebfc08408e)
+
 [Anirbid Sircar, Kriti Yadav, Kamakshi Rayavarapu, Namrata Bist, Hemangi Oza, Application of machine learning and artificial intelligence in oil and gas industry. ScienceDirect, 2021.](https://www.sciencedirect.com/science/article/pii/S2096249521000429?via%3Dihub) 
 
 ---
