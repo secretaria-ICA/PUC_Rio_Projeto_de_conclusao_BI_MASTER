@@ -11,7 +11,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 <!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir 
 o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 
-- [Link para o código_1 https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/blob/1)-An%C3%A1lise-Explort%C3%B3ria-e-S%C3%A9rie-Temporal/1)_Exploratory_analysis_and_graphs_development.ipynb]
+-[Análise Exploratória e Desenvolvimento de Gráficos](https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclusao_BI_MASTER/blob/main/An%C3%A1lise_Explorat%C3%B3ria_e_Desenvolvimento_de_Gr%C3%A1ficos.ipynb) 
 
 - [Link para o código_2 https://github.com/crisouzajr/PUC_Rio_Projeto_de_conclus-o_BI_MASTER/tree/2)-Presets-como-atributos-XGBoost-para-categoriza%C3%A7%C3%A3o]
 
