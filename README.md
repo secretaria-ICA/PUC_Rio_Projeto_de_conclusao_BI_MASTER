@@ -168,14 +168,17 @@ Chamei df1 o conjunto de dados com 8 linhas e onde a categoria da falha possui v
 
 df1 = 1,012712
 A partir dessa análise estatística descritiva, é possível observar que as variáveis relacionadas a vibração X & Z estão predominantes nessa categoria.
+
 ![image](https://user-images.githubusercontent.com/73768941/194212115-bb783ec1-23fc-4d06-85f0-ca774a00cbb6.png)
 
 df2 = 1,174242
 A partir dessa análise estatística descritiva, é possível observar que as variáveis relacionadas a temperatura e frequência estão predominantes nessa categoria. 
+
 ![image](https://user-images.githubusercontent.com/73768941/194212149-95cd99b7-3577-42b9-89a6-70523b65e596.png)
 
 df3 = 1,827586
 A partir dessa análise estatística descritiva, é possível observar que as variáveis relacionadas a pressão e vibração Y estão predominantes nessa categoria. 
+
 ![image](https://user-images.githubusercontent.com/73768941/194212196-d841b7ca-213f-4baa-a965-d088fac51108.png)
 
 #### Aprendizado de Máquina Classificador e métrica de avaliação.
@@ -184,12 +187,15 @@ Para definir qual seria o modelo classificador a ser utilizado no projeto, desen
 Foram utilizados todos os atributos em cada um dos modelos, e cada um deles apresentou métricas de avaliação distintas. Onde aquele que teve o melhor desempenho para classificar as falhas dentro do conjunto de dados, foi o Decision Tree / Árvore de Decisão, como é possível verificar nas imagens abaixo.
 
 Randon Forest
+
 ![image](https://user-images.githubusercontent.com/73768941/194212273-59ee36c3-bce7-4957-b7ab-78c0142a3cbd.png)
 
 Support Vector Machine
+
 ![image](https://user-images.githubusercontent.com/73768941/194212294-22c35c5d-708e-401b-b2e7-50886ff98555.png)
 
 Decision Tree
+
 ![image](https://user-images.githubusercontent.com/73768941/194212318-eaeb404b-f724-4597-923a-c6e50659d077.png)
 
 Selecionado o modelo de Árvore de Decisão para classificação das falhas, foi o momento de desenvolver um processo de produção que gerasse resultados com o modelo salvo, e que seja possível utilizar em qualquer nova base de dados apresentada.
