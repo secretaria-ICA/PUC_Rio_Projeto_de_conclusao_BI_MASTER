@@ -1,6 +1,6 @@
 #### Aluno: [Cristóvão Augusto Pessanha de Souza Júnior](https://github.com/crisouzajr)
-#### Orientadora: [Nome Sobrenome](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github). 
+#### Orientadora: [Manoela Kohler](https://github.com/link_do_github)
+#### Co-orientador(/a/es/as): [Ana Carolina Abreu](https://github.com/link_do_github)
 
 
 ---
