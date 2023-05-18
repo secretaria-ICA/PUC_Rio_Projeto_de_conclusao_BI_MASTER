@@ -1,3 +1,6 @@
+# Machine_Learning_para_Classificacao_e_Categorizacao_de_Falhas_em_Equipamentos 
+
+
 #### Aluno: [Cristóvão Augusto Pessanha de Souza Júnior](https://github.com/crisouzajr)
 #### Orientadora: [Manoela Kohler](https://github.com/link_do_github)
 #### Co-orientador(/a/es/as): [Ana Carolina Abreu](https://github.com/link_do_github)
